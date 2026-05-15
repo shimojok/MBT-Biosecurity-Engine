@@ -2,7 +2,7 @@
 
 ---
 
-# **PBPE‑Biosecurity Dashboard (English Version)**
+# **PBPE‑Biosecurity Dashboard**
 
 A unified interface for global biosecurity, food security, and climate metrics.
 
