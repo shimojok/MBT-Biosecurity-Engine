@@ -1,4 +1,4 @@
-# 🌍 **Executive Summary (English Version)**
+# 🌍 **Executive Summary**
 
 **MBT‑Biosecurity‑Engine — Executive Summary for Global Foundations & Development Agencies**
 
