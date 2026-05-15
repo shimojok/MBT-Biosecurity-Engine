@@ -77,3 +77,12 @@ MBT55 / HMT238 / M³‑BioSynergy による
 
 # 3. MBT55 メカニズム図（ASCII版）
 
+[ Electron Flow ] → [ Redox Stabilization ] → [ Nutrient Cascade ] ↓ ↓ ↓ [ Microbial Guilds ] → [ Ecological Hypercycle ] → [ Biosecurity Outcomes ] ↓ ↓ ↓ Disease Control | Soil Regeneration | Anti-Spoilage One Health | Carbon Sequestration | Climate Mitigation
+
+---
+
+# 4. 一文サマリー
+
+**MBT55 は、電子フロー・レドックス・栄養カスケード・微生物ギルドを統合し、  
+病害抑制・腐敗抑制・土壌再生・気候緩和・One Health を同時に実現する  
+“微生物バイオセキュリティ・エンジン” である。**
