@@ -2,7 +2,7 @@
 
 ---
 
-# **MBT55 Biosecurity Mechanism Map (English Version)**
+# **MBT55 Biosecurity Mechanism Map**
 
 ---
 
