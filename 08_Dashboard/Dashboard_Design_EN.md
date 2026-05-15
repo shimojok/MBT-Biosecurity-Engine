@@ -1,4 +1,4 @@
-# 📊 MBT-Biosecurity-Engine Dashboard Design (EN)
+# 📊 MBT-Biosecurity-Engine Dashboard Design
 
 A unified dashboard for monitoring **MBT55 Biosecurity performance**,  
 covering Agriculture, Livestock, Food Systems, Soil, Climate, and One Health.
