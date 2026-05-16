@@ -1,4 +1,4 @@
-# Livestock Case Study  
+# 🐄Livestock Case Study  
 ### MBT55 × PBPE: Methane Reduction, Gut Microbiome Optimization, and Productivity Gains in Ruminant and Monogastric Systems
 
 ---
