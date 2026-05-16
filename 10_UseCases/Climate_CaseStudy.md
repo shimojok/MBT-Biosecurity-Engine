@@ -1,4 +1,4 @@
-# Climate Case Study  
+# 🌍Climate Case Study  
 ### MBT55 × PBPE: Soil Carbon Regeneration, Biomass Expansion, N₂O/CH₄ Reduction, and Climate Resilience
 
 ---
