@@ -1,4 +1,4 @@
-# Tea Case Study  
+# 🍵Tea Case Study  
 ### MBT55 × PBPE: Suppression of Leaf Spot & Anthracnose, Aroma Enhancement, and Polyphenol Enrichment in Tea Production
 
 ---
