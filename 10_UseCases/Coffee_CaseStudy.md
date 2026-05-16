@@ -1,4 +1,4 @@
-# Coffee Case Study  
+# ☕Coffee Case Study  
 ### MBT55 × PBPE: Transforming Coffee Production into Climate Finance
 
 ---
