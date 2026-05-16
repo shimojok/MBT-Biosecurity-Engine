@@ -1,4 +1,4 @@
-# Cacao Case Study  
+# 🍫Cacao Case Study  
 ### MBT55 × PBPE: Suppression of Black Pod Disease, Fermentation Optimization, and Flavor Enhancement in Cacao Production
 
 ---
