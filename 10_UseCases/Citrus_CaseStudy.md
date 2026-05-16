@@ -1,4 +1,4 @@
-# Citrus Case Study  
+# 🍊Citrus Case Study  
 ### MBT55 × PBPE: Biological Suppression of HLB (Citrus Greening) and Regenerative Citrus Production
 
 ---
