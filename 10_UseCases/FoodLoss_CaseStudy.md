@@ -1,4 +1,4 @@
-# Food Loss Case Study  
+# 🥬Food Loss Case Study  
 ### MBT55 × PBPE: Microbial Suppression of Spoilage, Food Waste Reduction, and Scope 3 Decarbonization
 
 ---
