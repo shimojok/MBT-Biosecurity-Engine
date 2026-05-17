@@ -1,190 +1,280 @@
-# 🌍 **MBT‑Biosecurity‑Engine (English Version)**
+# 📘 **MBT‑Biosecurity‑Engine**
 
-**Microbial Biosecurity Engine for Agriculture, Livestock, Food Systems, and Environmental Health**  
-Powered by MBT55 / HMT238 / M³‑BioSynergy
-
----
-
-## **1. Mission**
-
-The **MBT‑Biosecurity‑Engine** provides a unified microbial solution to the world’s most persistent challenges:
-
-- Crop diseases causing yield loss and price spikes
-- Livestock epidemics leading to mass culling
-- Post‑harvest spoilage driving global food loss
-- Soil degradation and microbiome collapse
-- Climate emissions from agriculture (CH₄, N₂O)
-- Rising production costs and unstable farmer income
-
-MBT55 and HMT238 form a **biosecurity engine** that prevents disease, suppresses spoilage, restores soil, enhances quality, increases yield, and stabilizes food prices.
-
-Explore the scientific foundation: **MBT55 Mechanisms**
+### _Planetary Biosecurity × Regenerative Agriculture × Climate Intelligence_
 
 ---
 
-## **2. What is MBT55?**
+## 🌍 **1. Introduction**
 
-MBT55 is a **120‑species microbial consortium** engineered through the M³‑BioSynergy framework:
+**MBT‑Biosecurity‑Engine** is the scientific computation layer of the  
+**Planetary Bio‑Positive Economy (PBPE)**.
 
-- **55% aerobic + 45% anaerobic** (ideal metabolic balance)
-- Protein / lipid / starch / cellulose degraders
-- Lactic acid bacteria
-- Actinomycetes
-- Filamentous fungi
-- Mn/Fe redox bacteria
-- Sulfur bacteria
-- Methane‑oxidizing bacteria
-- Lignin‑degrading fungi
+It transforms **MBT55/HMT238 microbial biosecurity effects** into:
 
-This consortium recreates the **ecological hypercycle** and **nutrient cascade** found in resilient natural ecosystems.
+- Quantifiable biological KPIs
+- Soil carbon and GHG metrics
+- Food loss reduction
+- Livestock One‑Health improvements
+- Economic value (PBPE‑Biosecurity Credits)
+- Climate finance assets
 
-Learn more: **M³‑BioSynergy Theory**
+This repository provides:
 
----
+- **Mathematical models** of ecological hypercycles
+- **Disease, soil, livestock, climate simulations**
+- **Unified data schema** for AGRIX → MBT55 → PBPE
+- **Interactive dashboard prototype**
+- **Documentation for PBPE integration**
 
-## **3. Biosecurity Functions of MBT55**
-
-### **A. Agro‑Security (Crop Biosecurity)**
-
-MBT55 prevents and suppresses major global crop diseases:
-
-- Coffee Leaf Rust
-- Citrus Greening (HLB)
-- Cacao Black Pod
-- Grape Downy/Powdery Mildew
-- Watermelon Root Rot
-- Tea Blister Blight
-- Olive Xylella
-- Wheat Rust
-
-Mechanisms include:
-
-- Priority Effect (niche pre‑occupation)
-- Antagonistic metabolites (organic acids, SCFA, peptides)
-- Biofilm formation on leaves and roots
-- Induced Systemic Resistance (ISR)
-
-See crop‑specific cases: **Global Disease Matrix**
+MBT‑Biosecurity‑Engine is not a static document collection.  
+It is a **living computational engine** that powers PBPE’s global climate‑agriculture system.
 
 ---
 
-### **B. Livestock Biosecurity (One Health)**
+## 🧬 **2. Core Concept**
 
-MBT55 improves gut microbiome stability and reduces pathogen load:
+MBT55/HMT238 activates **ecological hypercycles**:
 
-- Avian Influenza
-- Classical Swine Fever
-- Foot‑and‑Mouth Disease
+- Microbial biomass ↑
+- Nutrient cycling ↑
+- Plant productivity ↑
+- Soil carbon stabilization ↑
+- GHG emissions ↓
+- Disease pressure ↓
+- Food loss ↓
+- Livestock health ↑
 
-Effects:
-
-- Lower infection risk
-- Reduced antibiotic use
-- 24‑hour manure decomposition
-- Lower CH₄ emissions
-
-Explore One Health: **Livestock Biosecurity**
+This engine converts **biological regeneration** into **economic and climate value**.
 
 ---
 
-### **C. Food Biosecurity (Post‑Harvest)**
-
-MBT55 suppresses spoilage organisms and extends shelf life:
-
-- Watermelon spoilage reduced **40% → <5%**
-- Mold and mycotoxin suppression
-- Longer transport stability
-- Reduced food loss
-
-See post‑harvest impact: **Food Loss Reduction**
-
----
-
-### **D. Environmental Biosecurity**
-
-MBT55 restores degraded ecosystems:
-
-- Heavy metal detoxification
-- Waste decomposition in 24 hours
-- Odor elimination (H₂S suppression)
-- Soil carbon sequestration (ΔC)
-- CH₄ and N₂O reduction
-
-Learn more: **Soil–Climate Engine**
-
----
-
-## **4. Why MBT55 Matters for Global Food Security**
-
-MBT55 eliminates the root causes of:
-
-- Yield loss
-- Price volatility
-- Food loss
-- Mass livestock culling
-- Soil degradation
-- Climate emissions
-
-This directly stabilizes:
-
-- Food supply
-- Market prices
-- Farmer income
-- National food security
-
-See economic integration: **PBPE‑Biosecurity Model**
-
----
-
-## **5. PBPE Integration: A New Economic Engine**
-
-Unlike traditional “Green Premium” models, PBPE does **not** rely on added consumer cost.
-
-PBPE’s value originates from:
-
-- **Risk reduction** (disease, spoilage, culling)
-- **Production cost reduction** (fertilizer, pesticides, antibiotics)
-- **Yield increase**
-- **Quality enhancement**
-- **Food loss reduction**
-- **Climate finance gains** (ΔC, CH₄, N₂O credits)
-
-This forms a **self‑reinforcing economic flywheel**:
-
-```
-Biosecurity → Higher Yield → Lower Cost → Higher Quality →  
-Stable Prices → Climate Credits → Reinforcement of PBPE Value
-```
-
-Explore PBPE: **PBPE Marketplace**
-
----
-
-## **6. Repository Structure**
+## 🧱 **3. Repository Structure**
 
 ```
 MBT-Biosecurity-Engine/
 │
 ├── 00_Overview/
+│     └── README.md
+│
 ├── 01_Biosecurity_Fundamentals/
-├── 02_MBT55_Biosecurity_Mechanisms/
-├── 03_Global_Crop_Disease_Matrix/
+├── 02_MBT55_Mechanisms/
+├── 03_Disease_Matrix/
 ├── 04_Livestock_Biosecurity/
-├── 05_PostHarvest_and_FoodSecurity/
-├── 06_Soil_Climate_Engine/
-├── 07_PBPE_Biosecurity_Model/
+├── 05_PostHarvest/
+├── 06_Soil_Climate/
+├── 07_PBPE_Link/
+│
 ├── 08_Dashboard/
+│     ├── Dashboard_Design.md
+│     ├── Indicators_List.md
+│     ├── Data_Model.json
+│     ├── Streamlit_Prototype.py
+│     └── PBPE_Visualization_Spec.md
+│
 ├── 09_Code_Models/
-└── 10_UseCases/
+│     ├── Disease_Risk_Model.py
+│     ├── Microbial_Simulation.py
+│     ├── Soil_Carbon_Model.py
+│     ├── Price_Stability_Model.py
+│     └── OneHealth_Model.py
+│
+└── Appendix/
+      ├── MBT55_Microbial_List.md
+      ├── Scientific_Papers.md
+      ├── Field_Data.md
+      ├── Biosecurity_Glossary.md
+      └── FAQ.md
 ```
 
 ---
 
-## **7. Strategic Partners**
+## 🧠 **4. Architecture Overview**
 
-- Bill & Melinda Gates Foundation
-- Rockefeller Foundation
-- World Bank / IFC
-- FAO / UNDP / IFAD
-- Global Coffee / Tea / Cocoa / Citrus Industries
-- One Health & AMR Programs
+### _Scientific Engine → Data Layer → Dashboard → PBPE Integration_
+
+---
+
+## **4.1 Full Architecture Diagram**
+
+```
+                 ┌──────────────────────────────────────────┐
+                 │        MBT‑Biosecurity‑Engine            │
+                 │      (Scientific Computation Layer)      │
+                 └──────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌────────────────────────────────────────────────────────────────┐
+     │                        09_Code_Models/                         │
+     │                                                                │
+     │  Disease_Risk_Model.py        → Disease suppression            │
+     │  Microbial_Simulation.py      → Ecological hypercycle          │
+     │  Soil_Carbon_Model.py         → SOC & necromass                │
+     │  Price_Stability_Model.py     → Yield → price stability        │
+     │  OneHealth_Model.py           → Livestock & zoonotic risk      │
+     └────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌────────────────────────────────────────────────────────────────┐
+     │                     08_Dashboard/Data_Model.json               │
+     │     (Unified Data Schema for AGRIX → MBT55 → PBPE)            │
+     └────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌────────────────────────────────────────────────────────────────┐
+     │                 08_Dashboard/Streamlit_Prototype.py            │
+     │         (Visualization of Scientific → Economic KPIs)          │
+     └────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌────────────────────────────────────────────────────────────────┐
+     │                         PBPE-Dashboard                         │
+     │     PBPE Value / Credits / Income / Price Stability            │
+     └────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+     ┌────────────────────────────────────────────────────────────────┐
+     │                         PBPE-Finance                           │
+     │     (Financial Products backed by Biosecurity Credits)         │
+     └────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🧬 **5. Scientific Models (09_Code_Models)**
+
+This engine includes **fully functional mathematical models**:
+
+### ✔ Disease_Risk_Model.py
+
+CLR / Fusarium / Downy Mildew risk simulation
+
+### ✔ Microbial_Simulation.py
+
+Ecological hypercycle (Plant–Microbe–Nutrient dynamics)
+
+### ✔ Soil_Carbon_Model.py
+
+SOC accumulation, necromass stabilization, decomposition
+
+### ✔ Price_Stability_Model.py
+
+Yield stability → price volatility reduction
+
+### ✔ OneHealth_Model.py
+
+Livestock infection, antibiotics, methane, zoonotic risk
+
+These models generate **real numerical outputs** used by PBPE.
+
+---
+
+## 📊 **6. Dashboard Engine (08_Dashboard)**
+
+### ✔ Data_Model.json
+
+Unified schema for:
+
+- AGRIX sensor data
+- MBT55 application data
+- Crop performance
+- Soil & climate metrics
+- Livestock metrics
+- Economic metrics
+- PBPE Credits
+
+### ✔ Streamlit_Prototype.py
+
+Interactive dashboard showing:
+
+- Disease Loss Reduction
+- Yield Gain
+- Anti‑Spoilage
+- ΔC (Soil Carbon)
+- GHG Reduction
+- PBPE Value
+- ROI
+- Price Stability
+
+### ✔ PBPE_Visualization_Spec.md
+
+Defines how MBT55 → PBPE → Finance are visualized.
+
+---
+
+## 💱 **7. PBPE Integration**
+
+MBT‑Biosecurity‑Engine outputs feed directly into PBPE:
+
+### PBPE‑Biosecurity Credits
+
+- Disease reduction
+- Spoilage reduction
+- Yield gain
+- Quality premium
+- Food loss reduction
+- Climate co‑benefits
+
+### PBPE‑Dashboard
+
+- PBPE Value (USD)
+- Farmer income uplift
+- Price stability
+- Regional impact
+
+### PBPE‑Finance
+
+- Biosecurity‑backed financial products
+- Climate funds
+- Risk‑sharing instruments
+
+---
+
+## 🧩 **8. Integration with AGRIX / HealthBook / MBT Probiotics**
+
+### AGRIX → MBT55
+
+- Soil sensors
+- Climate data
+- Crop stress signals
+- Disease early warning
+
+### MBT55 → HealthBook
+
+- One‑Health indicators
+- Gut microbiome
+- Antibiotic reduction
+- Zoonotic risk
+
+### MBT Probiotics → MBT55
+
+- Microbial guild reinforcement
+- Fermentation stability
+- Livestock gut optimization
+
+All systems share **Data_Model.json** as the common I/O layer.
+
+---
+
+## 📚 **9. Appendix**
+
+- **MBT55_Microbial_List.md**
+- **Scientific_Papers.md**
+- **Field_Data.md**
+- **Biosecurity_Glossary.md**
+- **FAQ.md**
+
+These documents provide scientific grounding and transparency.
+
+---
+
+## 🚀 **10. Vision**
+
+MBT‑Biosecurity‑Engine is the **scientific OS** of PBPE:
+
+- A computational engine
+- A climate engine
+- A biosecurity engine
+- A regenerative agriculture engine
+- A financial engine
+
+It transforms **microbial ecology** into **planetary‑scale climate and economic value**.
