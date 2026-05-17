@@ -1,0 +1,131 @@
+{
+  "version": "1.0.0",
+  "entities": {
+    "Farm": {
+      "fields": {
+        "farm_id": "string",
+        "name": "string",
+        "country": "string",
+        "region": "string",
+        "latitude": "float",
+        "longitude": "float",
+        "crop_type": "string",
+        "farming_system": "string",
+        "area_ha": "float"
+      }
+    },
+    "Season": {
+      "fields": {
+        "season_id": "string",
+        "year": "int",
+        "season_label": "string",
+        "start_date": "string",
+        "end_date": "string"
+      }
+    },
+    "MBT55Application": {
+      "fields": {
+        "application_id": "string",
+        "farm_id": "string",
+        "season_id": "string",
+        "product_type": "string",
+        "dose_l_per_ha": "float",
+        "application_method": "string",
+        "application_dates": "string",
+        "batch_id": "string"
+      }
+    },
+    "CropPerformance": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "yield_before_t_per_ha": "float",
+        "yield_after_t_per_ha": "float",
+        "disease_loss_before_pct": "float",
+        "disease_loss_after_pct": "float",
+        "quality_brix_before": "float",
+        "quality_brix_after": "float",
+        "quality_polyphenols_before": "float",
+        "quality_polyphenols_after": "float",
+        "defect_rate_before_pct": "float",
+        "defect_rate_after_pct": "float"
+      }
+    },
+    "PostHarvest": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "product_type": "string",
+        "spoilage_rate_before_pct": "float",
+        "spoilage_rate_after_pct": "float",
+        "shelf_life_before_days": "float",
+        "shelf_life_after_days": "float",
+        "marketable_yield_before_t": "float",
+        "marketable_yield_after_t": "float"
+      }
+    },
+    "SoilClimate": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "soc_before_tC_per_ha": "float",
+        "soc_after_tC_per_ha": "float",
+        "ch4_before_kg": "float",
+        "ch4_after_kg": "float",
+        "n2o_before_kg": "float",
+        "n2o_after_kg": "float",
+        "gwp_ch4": "float",
+        "gwp_n2o": "float"
+      }
+    },
+    "Livestock": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "species": "string",
+        "head_count": "int",
+        "infection_rate_before_pct": "float",
+        "infection_rate_after_pct": "float",
+        "culling_before_head": "int",
+        "culling_after_head": "int",
+        "antibiotic_use_before_kg": "float",
+        "antibiotic_use_after_kg": "float",
+        "fcr_before": "float",
+        "fcr_after": "float",
+        "enteric_ch4_before_kg": "float",
+        "enteric_ch4_after_kg": "float"
+      }
+    },
+    "Economics": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "base_price_usd_per_kg": "float",
+        "pbpe_price_usd_per_kg": "float",
+        "farmer_income_before_usd_per_ha": "float",
+        "farmer_income_after_usd_per_ha": "float",
+        "fertilizer_cost_before_usd_per_ha": "float",
+        "fertilizer_cost_after_usd_per_ha": "float",
+        "pesticide_cost_before_usd_per_ha": "float",
+        "pesticide_cost_after_usd_per_ha": "float",
+        "antibiotic_cost_before_usd_per_ha": "float",
+        "antibiotic_cost_after_usd_per_ha": "float",
+        "waste_disposal_cost_before_usd_per_ha": "float",
+        "waste_disposal_cost_after_usd_per_ha": "float",
+        "price_volatility_before": "float",
+        "price_volatility_after": "float"
+      }
+    },
+    "PBPECredits": {
+      "fields": {
+        "farm_id": "string",
+        "season_id": "string",
+        "biosecurity_credits": "float",
+        "carbon_credits_tco2": "float",
+        "food_loss_credits_t": "float",
+        "quality_credits": "float",
+        "total_pbpe_value_usd": "float"
+      }
+    }
+  }
+}
