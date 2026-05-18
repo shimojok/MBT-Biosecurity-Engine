@@ -308,4 +308,6 @@ with col_y2:
     st.subheader(T["revenue_title"])
     st.metric(T["baseline"], f"{summary_base['Revenue (USD)']:,.0f}")
     st.metric(T["with_mbt"], f"{summary_mbt['Revenue (USD)']:,.0f}",
-              f"{summary_mbt['Revenue
+            f"{summary_mbt['Revenue (USD)']:,.0f}",
+            f"{summary_mbt['Revenue (USD)'] - summary_base['Revenue (USD)']:,.0f}"
+
