@@ -495,7 +495,21 @@ with st.expander(T["formula_title"], expanded=False):
         "PBPE Value (USD)": [summary_base["PBPE Value (USD)"], summary_mbt["PBPE Value (USD)"]],
         "ROI (%)": [summary_base["ROI (%)"], summary_mbt["ROI (%)"]],
     })
-    st.dataframe(formula_df.style.format("{:,.2f}"))
+
+    # 🔧 ここを修正：数値列だけフォーマットする
+    numeric_cols = [
+        "Total Yield (t)",
+        "Price (USD/t)",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "PBPE Value (USD)",
+        "ROI (%)",
+    ]
+    st.dataframe(
+        formula_df.style.format(
+            {col: "{:,.2f}" for col in numeric_cols}
+        )
+    )
 
 st.markdown("---")
 
