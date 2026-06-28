@@ -532,7 +532,7 @@ Includes:
 
 ---
 
-# 🧩 Role of MBT‑Biosecurity‑Engine in the PBPE Ecosystem
+# 🧩 **14. Role of MBT‑Biosecurity‑Engine in the PBPE Ecosystem**
 
 As **Layer 1** of PBPE‑OS, MBT‑Biosecurity‑Engine provides:
 
@@ -552,7 +552,7 @@ forming the scientific backbone of the entire PBPE ecosystem.
 
 ---
 
-# 🌍 **14. Contact**
+# 🌍 **15. Contact**
 
 Kaz Shimojo  
 Chief Architect, Planetary Social Innovation Systems  
