@@ -29,10 +29,10 @@ https://shimojok.github.io/PBPE-Dashboard/
 The conceptual foundation of this engine is documented in the PBPE Core Model slide decks.
 
 ### **English Version**
-`./docs/slides/The_PBPE_Core_Model_en.pdf`
+[The PBPE Core Model (EN)](./docs/slides/The_PBPE_Core_Model_en.pdf)
 
 ### **Japanese Version**
-`./docs/slides/The_PBPE_Core_Model_jp.pdf`
+[PBPE コアモデル（JP）](./docs/slides/The_PBPE_Core_Model_jp.pdf)
 
 These slides explain:
 
