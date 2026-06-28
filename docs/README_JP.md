@@ -255,7 +255,7 @@ PBPE-OS の **理論・数理モデル・データ基盤**を提供するコア�
 
 ---
 
-# 🧩 MBT-Biosecurity-Engine の位置づけ
+## 🧩 MBT-Biosecurity-Engine の位置づけ
 
 MBT-Biosecurity-Engine は PBPE-OS の **Layer1（科学・生物学的エンジン）**として、  
 上記すべての PBPEレイヤー（Dashboard, Finance, Marketplace）に対し：
