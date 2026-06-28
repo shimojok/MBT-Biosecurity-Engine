@@ -2,6 +2,9 @@
 <p align="center">
   <img src="./docs/images/pbpe-header-jp.png" alt="PBPE Core Model Header JP" width="100%">
 </p>
+<p align="center">
+  <img src="./docs/images/pbpe-header-en.png" alt="PBPE Core Model Header" width="100%">
+</p>
 
 # MBT‑Biosecurity‑Engine  
 ### プラネタリーバイオセキュリティ × 再生型農業 × 気候インテリジェンス  
