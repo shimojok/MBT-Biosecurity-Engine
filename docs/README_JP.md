@@ -1,8 +1,5 @@
 <!-- ヘッダー画像 -->
 <p align="center">
-  <img src="./docs/images/pbpe-header-jp.png" alt="PBPE Core Model Header JP" width="100%">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/shimojok/MBT-Biosecurity-Engine/main/docs/images/pbpe-header-jp.png" alt="PBPE Core Model Header JP" width="100%">
 </p>
 
