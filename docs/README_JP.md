@@ -44,14 +44,10 @@ MBT55 の生態系再生効果を：
 ## 📄 PBPE Core Model スライド
 
 ### **英語版**
-```
-./docs/slides/The_PBPE_Core_Model_en.pdf
-```
+[The PBPE Core Model (EN)](./docs/slides/The_PBPE_Core_Model_en.pdf)
 
 ### **日本語版**
-```
-./docs/slides/The_PBPE_Core_Model_jp.pdf
-```
+[PBPE コアモデル（JP）](./docs/slides/The_PBPE_Core_Model_jp.pdf)
 
 内容：
 
